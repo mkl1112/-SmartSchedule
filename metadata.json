@@ -1,0 +1,5 @@
+{
+  "name": "Hệ thống Quản lý Lịch công tác - SmartSchedule",
+  "description": "Một ứng dụng hiện đại mô phỏng hệ thống lịch làm việc của cơ quan nhà nước, tích hợp AI để phân tích và tìm kiếm lịch trình thông minh.",
+  "requestFramePermissions": []
+}
